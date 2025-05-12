@@ -1,0 +1,8 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/crud-maui-blazor/.vs/crud-maui-blazor
+/crud-maui-blazor/Components
+/crud-maui-blazor/Components/Pages/Counter.razor
+/crud-maui-blazor/crud-maui-blazor

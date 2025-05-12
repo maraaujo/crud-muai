@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\scopedcss\\bundle\\crud-maui-blazor.styles.css",
+      "PackagePath": "staticwebassets\\crud-maui-blazor.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.build.crud-maui-blazor.props",
+      "PackagePath": "build\\crud-maui-blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.buildMultiTargeting.crud-maui-blazor.props",
+      "PackagePath": "buildMultiTargeting\\crud-maui-blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.buildTransitive.crud-maui-blazor.props",
+      "PackagePath": "buildTransitive\\crud-maui-blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.crud-maui-blazor.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.crud-maui-blazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
