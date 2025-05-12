@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DGqnO/7zGp4=",
+  "dgSpecHash": "WYLBMFGFS0I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\crud-maui-blazor.csproj",
+  "projectFilePath": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\crud-maui-blazor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mclem\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512",
     "C:\\Users\\mclem\\.nuget\\packages\\googlegson\\2.11.0.3\\googlegson.2.11.0.3.nupkg.sha512",

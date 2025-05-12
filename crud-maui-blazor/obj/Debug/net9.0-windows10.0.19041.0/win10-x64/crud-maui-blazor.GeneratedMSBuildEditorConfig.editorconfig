@@ -16,7 +16,7 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = crud_maui_blazor
 build_property.RootNamespace = crud_maui_blazor
-build_property.ProjectDir = C:\Users\mclem\OneDrive\Desktop\Projeto\MFB-bank-back-end\crud-maui-blazor\
+build_property.ProjectDir = C:\Users\mclem\OneDrive\Desktop\Projeto\crud-muai\crud-maui-blazor\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTAotExportsEnabled = 
@@ -28,84 +28,21 @@ build_property.CsWinRTUseWindowsUIXamlProjections = false
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\mclem\OneDrive\Desktop\Projeto\MFB-bank-back-end\crud-maui-blazor
+build_property.MSBuildProjectDirectory = C:\Users\mclem\OneDrive\Desktop\Projeto\crud-muai\crud-maui-blazor
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/mclem/OneDrive/Desktop/Projeto/MFB-bank-back-end/crud-maui-blazor/App.xaml]
+[C:/Users/mclem/OneDrive/Desktop/Projeto/crud-muai/crud-maui-blazor/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = crud_maui_blazor.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mclem/OneDrive/Desktop/Projeto/MFB-bank-back-end/crud-maui-blazor/MainPage.xaml]
+[C:/Users/mclem/OneDrive/Desktop/Projeto/crud-muai/crud-maui-blazor/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = crud_maui_blazor.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/mclem/OneDrive/Desktop/Projeto/MFB-bank-back-end/crud-maui-blazor/Components/Pages/DeletePerfume.razor]
-build_metadata.AdditionalFiles.GenKind = 
-build_metadata.AdditionalFiles.ManifestResourceName = 
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEZWxldGVQZXJmdW1lLnJhem9y
-build_metadata.AdditionalFiles.RelativePath = 
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/mclem/OneDrive/Desktop/Projeto/MFB-bank-back-end/crud-maui-blazor/Components/Pages/Home.razor]
-build_metadata.AdditionalFiles.GenKind = 
-build_metadata.AdditionalFiles.ManifestResourceName = 
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
-build_metadata.AdditionalFiles.RelativePath = 
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/mclem/OneDrive/Desktop/Projeto/MFB-bank-back-end/crud-maui-blazor/Components/Pages/NewPerfume.razor]
-build_metadata.AdditionalFiles.GenKind = 
-build_metadata.AdditionalFiles.ManifestResourceName = 
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xOZXdQZXJmdW1lLnJhem9y
-build_metadata.AdditionalFiles.RelativePath = 
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/mclem/OneDrive/Desktop/Projeto/MFB-bank-back-end/crud-maui-blazor/Components/Pages/PerfumesList.razor]
-build_metadata.AdditionalFiles.GenKind = 
-build_metadata.AdditionalFiles.ManifestResourceName = 
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQZXJmdW1lc0xpc3QucmF6b3I=
-build_metadata.AdditionalFiles.RelativePath = 
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/mclem/OneDrive/Desktop/Projeto/MFB-bank-back-end/crud-maui-blazor/Components/Pages/UpdatePerfume.razor]
-build_metadata.AdditionalFiles.GenKind = 
-build_metadata.AdditionalFiles.ManifestResourceName = 
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xVcGRhdGVQZXJmdW1lLnJhem9y
-build_metadata.AdditionalFiles.RelativePath = 
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/mclem/OneDrive/Desktop/Projeto/MFB-bank-back-end/crud-maui-blazor/Components/Routes.razor]
-build_metadata.AdditionalFiles.GenKind = 
-build_metadata.AdditionalFiles.ManifestResourceName = 
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
-build_metadata.AdditionalFiles.RelativePath = 
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/mclem/OneDrive/Desktop/Projeto/MFB-bank-back-end/crud-maui-blazor/Components/_Imports.razor]
-build_metadata.AdditionalFiles.GenKind = 
-build_metadata.AdditionalFiles.ManifestResourceName = 
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
-build_metadata.AdditionalFiles.RelativePath = 
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/mclem/OneDrive/Desktop/Projeto/MFB-bank-back-end/crud-maui-blazor/Components/Layout/MainLayout.razor]
-build_metadata.AdditionalFiles.GenKind = 
-build_metadata.AdditionalFiles.ManifestResourceName = 
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
-build_metadata.AdditionalFiles.RelativePath = 
-build_metadata.AdditionalFiles.CssScope = b-uob9xmv9ek
-
-[C:/Users/mclem/OneDrive/Desktop/Projeto/MFB-bank-back-end/crud-maui-blazor/Components/Layout/NavMenu.razor]
-build_metadata.AdditionalFiles.GenKind = 
-build_metadata.AdditionalFiles.ManifestResourceName = 
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
-build_metadata.AdditionalFiles.RelativePath = 
-build_metadata.AdditionalFiles.CssScope = b-twuvshdx3l

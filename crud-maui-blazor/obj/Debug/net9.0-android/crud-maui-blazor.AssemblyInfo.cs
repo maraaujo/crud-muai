@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("crud-maui-blazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+e38b81886b1d1d2c25d75085455777550d3c653b")]
 [assembly: System.Reflection.AssemblyProductAttribute("crud-maui-blazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("crud-maui-blazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

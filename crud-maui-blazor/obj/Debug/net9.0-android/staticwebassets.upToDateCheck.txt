@@ -1,7 +1,7 @@
-C:\Users\mclem\OneDrive\Desktop\Projeto\MFB-bank-back-end\crud-maui-blazor\wwwroot\css\bootstrap\bootstrap.min.css
-C:\Users\mclem\OneDrive\Desktop\Projeto\MFB-bank-back-end\crud-maui-blazor\wwwroot\css\bootstrap\bootstrap.min.css.map
-C:\Users\mclem\OneDrive\Desktop\Projeto\MFB-bank-back-end\crud-maui-blazor\wwwroot\index.html
-C:\Users\mclem\OneDrive\Desktop\Projeto\MFB-bank-back-end\crud-maui-blazor\wwwroot\css\app.css
+C:\Users\mclem\OneDrive\Desktop\Projeto\crud-muai\crud-maui-blazor\wwwroot\css\bootstrap\bootstrap.min.css
+C:\Users\mclem\OneDrive\Desktop\Projeto\crud-muai\crud-maui-blazor\wwwroot\css\bootstrap\bootstrap.min.css.map
+C:\Users\mclem\OneDrive\Desktop\Projeto\crud-muai\crud-maui-blazor\wwwroot\index.html
+C:\Users\mclem\OneDrive\Desktop\Projeto\crud-muai\crud-maui-blazor\wwwroot\css\app.css
 wwwroot\css\app.css
 wwwroot\css\bootstrap\bootstrap.min.css
 wwwroot\css\bootstrap\bootstrap.min.css.map

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2qUQisA4EEYxioEjequyi/OY+dKkEvdrcIkl+o3UagY=",
+  "Hash": "4fPRpHsgLCvdAcHYHtRuqENEE7HaDBO57pavzNNn+sc=",
   "Source": "crud-maui-blazor",
   "BasePath": "/",
   "Mode": "Root",
@@ -10,17 +10,17 @@
     {
       "Name": "crud-maui-blazor\\wwwroot",
       "Source": "crud-maui-blazor",
-      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\",
       "BasePath": "/",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\c6cevx3ir2-6gzpyzhau4.gz",
+      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\c6cevx3ir2-6gzpyzhau4.gz",
       "SourceId": "crud-maui-blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\",
+      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint=6gzpyzhau4}]?.css.gz",
       "AssetKind": "All",
@@ -28,20 +28,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "RelatedAsset": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "joqzyw7ssu",
       "Integrity": "LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css"
+      "OriginalItemSpec": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\c6cevx3ir2-6gzpyzhau4.br",
+      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\c6cevx3ir2-6gzpyzhau4.br",
       "SourceId": "crud-maui-blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint=6gzpyzhau4}]?.css.br",
       "AssetKind": "All",
@@ -49,20 +49,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "RelatedAsset": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
       "Fingerprint": "2o883p7o84",
       "Integrity": "4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css"
+      "OriginalItemSpec": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\r3dm4isq19-8inm30yfxf.br",
+      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\r3dm4isq19-8inm30yfxf.br",
       "SourceId": "crud-maui-blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.br",
       "AssetKind": "All",
@@ -70,20 +70,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "RelatedAsset": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
       "Fingerprint": "b4a1wrn6r6",
       "Integrity": "e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\tvwc51w9o5-67gxxux059.br",
+      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\tvwc51w9o5-67gxxux059.br",
       "SourceId": "crud-maui-blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
       "BasePath": "/",
       "RelativePath": "index#[.{fingerprint=67gxxux059}]?.html.br",
       "AssetKind": "All",
@@ -91,41 +91,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\index.html",
+      "RelatedAsset": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
       "Fingerprint": "jksulf6pps",
       "Integrity": "I133+s81I60JdjOM8wzp8wISO9dmEzVEu5xWahh3Zkg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\index.html"
+      "OriginalItemSpec": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\wfqylh8s23-15iok1uftg.br",
-      "SourceId": "crud-maui-blazor",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
-      "BasePath": "/",
-      "RelativePath": "crud-maui-blazor#[.{fingerprint=15iok1uftg}]!.bundle.scp.css.br",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\crud-maui-blazor.bundle.scp.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "br",
-      "Fingerprint": "vkpl75k25p",
-      "Integrity": "v88KU46vRvtgaMeEgx5N2vnRxKNncJN8emtk67KsgJc=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\crud-maui-blazor.bundle.scp.css"
-    },
-    {
-      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\zje3yoyo4s-e5tk7yf482.br",
+      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\zje3yoyo4s-e5tk7yf482.br",
       "SourceId": "crud-maui-blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
       "BasePath": "/",
       "RelativePath": "css/app#[.{fingerprint=e5tk7yf482}]?.css.br",
       "AssetKind": "All",
@@ -133,41 +112,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\css\\app.css",
+      "RelatedAsset": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\css\\app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
       "Fingerprint": "ix9166x7gh",
       "Integrity": "eqlsvw/N8zKnAKc05YDjHT7YIDSUfr5wmQ20CD/lmXo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\css\\app.css"
+      "OriginalItemSpec": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\css\\app.css"
     },
     {
-      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\zyh4oedkmi-15iok1uftg.br",
-      "SourceId": "crud-maui-blazor",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
-      "BasePath": "/",
-      "RelativePath": "crud-maui-blazor#[.{fingerprint=15iok1uftg}]?.styles.css.br",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\crud-maui-blazor.styles.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "br",
-      "Fingerprint": "vkpl75k25p",
-      "Integrity": "v88KU46vRvtgaMeEgx5N2vnRxKNncJN8emtk67KsgJc=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\crud-maui-blazor.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\r3dm4isq19-8inm30yfxf.gz",
+      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\r3dm4isq19-8inm30yfxf.gz",
       "SourceId": "crud-maui-blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\",
+      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.gz",
       "AssetKind": "All",
@@ -175,20 +133,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "RelatedAsset": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "fbl5ivwo6k",
       "Integrity": "Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\tvwc51w9o5-67gxxux059.gz",
+      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\tvwc51w9o5-67gxxux059.gz",
       "SourceId": "crud-maui-blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\",
+      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\",
       "BasePath": "/",
       "RelativePath": "index#[.{fingerprint=67gxxux059}]?.html.gz",
       "AssetKind": "All",
@@ -196,41 +154,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\index.html",
+      "RelatedAsset": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "fsmzky2yyj",
       "Integrity": "H1oUaXbC+chMkLmluwRK7giuFOoHa6y98ScJMxPj3Ps=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\index.html"
+      "OriginalItemSpec": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\wfqylh8s23-15iok1uftg.gz",
-      "SourceId": "crud-maui-blazor",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\",
-      "BasePath": "/",
-      "RelativePath": "crud-maui-blazor#[.{fingerprint=15iok1uftg}]!.bundle.scp.css.gz",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\crud-maui-blazor.bundle.scp.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "4kfv8xoxlc",
-      "Integrity": "hEx3tpKgsNgw5i14Zou5QB/89p1aqNVVdPognejijRI=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\crud-maui-blazor.bundle.scp.css"
-    },
-    {
-      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\zje3yoyo4s-e5tk7yf482.gz",
+      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\zje3yoyo4s-e5tk7yf482.gz",
       "SourceId": "crud-maui-blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\",
+      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\",
       "BasePath": "/",
       "RelativePath": "css/app#[.{fingerprint=e5tk7yf482}]?.css.gz",
       "AssetKind": "All",
@@ -238,83 +175,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\css\\app.css",
+      "RelatedAsset": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\css\\app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "9sb0w9jnhl",
       "Integrity": "qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\css\\app.css"
+      "OriginalItemSpec": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\css\\app.css"
     },
     {
-      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\zyh4oedkmi-15iok1uftg.gz",
-      "SourceId": "crud-maui-blazor",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\",
-      "BasePath": "/",
-      "RelativePath": "crud-maui-blazor#[.{fingerprint=15iok1uftg}]?.styles.css.gz",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\crud-maui-blazor.styles.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "4kfv8xoxlc",
-      "Integrity": "hEx3tpKgsNgw5i14Zou5QB/89p1aqNVVdPognejijRI=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\crud-maui-blazor.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\crud-maui-blazor.styles.css",
-      "SourceId": "crud-maui-blazor",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\",
-      "BasePath": "/",
-      "RelativePath": "crud-maui-blazor#[.{fingerprint}]?.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "15iok1uftg",
-      "Integrity": "K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\crud-maui-blazor.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\crud-maui-blazor.bundle.scp.css",
-      "SourceId": "crud-maui-blazor",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\",
-      "BasePath": "/",
-      "RelativePath": "crud-maui-blazor#[.{fingerprint}]!.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "15iok1uftg",
-      "Integrity": "K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\crud-maui-blazor.bundle.scp.css"
-    },
-    {
-      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\css\\app.css",
+      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\css\\app.css",
       "SourceId": "crud-maui-blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/app#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -332,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\css\\app.css"
     },
     {
-      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "crud-maui-blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -353,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "crud-maui-blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -374,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\index.html",
       "SourceId": "crud-maui-blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -397,1036 +271,8 @@
   ],
   "Endpoints": [
     {
-      "Route": "crud-maui-blazor.15iok1uftg.bundle.scp.css",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\wfqylh8s23-15iok1uftg.br",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "br",
-          "Quality": "0.000738552437"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1353"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"v88KU46vRvtgaMeEgx5N2vnRxKNncJN8emtk67KsgJc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 22:36:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "15iok1uftg"
-        },
-        {
-          "Name": "label",
-          "Value": "crud-maui-blazor.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE="
-        }
-      ]
-    },
-    {
-      "Route": "crud-maui-blazor.15iok1uftg.bundle.scp.css",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\wfqylh8s23-15iok1uftg.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000614628150"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1626"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hEx3tpKgsNgw5i14Zou5QB/89p1aqNVVdPognejijRI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 22:36:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "15iok1uftg"
-        },
-        {
-          "Name": "label",
-          "Value": "crud-maui-blazor.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE="
-        }
-      ]
-    },
-    {
-      "Route": "crud-maui-blazor.15iok1uftg.bundle.scp.css",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\crud-maui-blazor.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5481"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 22:36:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "15iok1uftg"
-        },
-        {
-          "Name": "label",
-          "Value": "crud-maui-blazor.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE="
-        }
-      ]
-    },
-    {
-      "Route": "crud-maui-blazor.15iok1uftg.bundle.scp.css.br",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\wfqylh8s23-15iok1uftg.br",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1353"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"v88KU46vRvtgaMeEgx5N2vnRxKNncJN8emtk67KsgJc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 22:36:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "15iok1uftg"
-        },
-        {
-          "Name": "label",
-          "Value": "crud-maui-blazor.bundle.scp.css.br"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-v88KU46vRvtgaMeEgx5N2vnRxKNncJN8emtk67KsgJc="
-        }
-      ]
-    },
-    {
-      "Route": "crud-maui-blazor.15iok1uftg.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\wfqylh8s23-15iok1uftg.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1626"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hEx3tpKgsNgw5i14Zou5QB/89p1aqNVVdPognejijRI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 22:36:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "15iok1uftg"
-        },
-        {
-          "Name": "label",
-          "Value": "crud-maui-blazor.bundle.scp.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-hEx3tpKgsNgw5i14Zou5QB/89p1aqNVVdPognejijRI="
-        }
-      ]
-    },
-    {
-      "Route": "crud-maui-blazor.15iok1uftg.styles.css",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\zyh4oedkmi-15iok1uftg.br",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "br",
-          "Quality": "0.000738552437"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1353"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"v88KU46vRvtgaMeEgx5N2vnRxKNncJN8emtk67KsgJc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 22:36:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "15iok1uftg"
-        },
-        {
-          "Name": "label",
-          "Value": "crud-maui-blazor.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE="
-        }
-      ]
-    },
-    {
-      "Route": "crud-maui-blazor.15iok1uftg.styles.css",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\zyh4oedkmi-15iok1uftg.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000614628150"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1626"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hEx3tpKgsNgw5i14Zou5QB/89p1aqNVVdPognejijRI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 22:36:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "15iok1uftg"
-        },
-        {
-          "Name": "label",
-          "Value": "crud-maui-blazor.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE="
-        }
-      ]
-    },
-    {
-      "Route": "crud-maui-blazor.15iok1uftg.styles.css",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\crud-maui-blazor.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5481"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 22:36:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "15iok1uftg"
-        },
-        {
-          "Name": "label",
-          "Value": "crud-maui-blazor.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE="
-        }
-      ]
-    },
-    {
-      "Route": "crud-maui-blazor.15iok1uftg.styles.css.br",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\zyh4oedkmi-15iok1uftg.br",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1353"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"v88KU46vRvtgaMeEgx5N2vnRxKNncJN8emtk67KsgJc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 22:36:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "15iok1uftg"
-        },
-        {
-          "Name": "label",
-          "Value": "crud-maui-blazor.styles.css.br"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-v88KU46vRvtgaMeEgx5N2vnRxKNncJN8emtk67KsgJc="
-        }
-      ]
-    },
-    {
-      "Route": "crud-maui-blazor.15iok1uftg.styles.css.gz",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\zyh4oedkmi-15iok1uftg.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1626"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hEx3tpKgsNgw5i14Zou5QB/89p1aqNVVdPognejijRI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 22:36:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "15iok1uftg"
-        },
-        {
-          "Name": "label",
-          "Value": "crud-maui-blazor.styles.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-hEx3tpKgsNgw5i14Zou5QB/89p1aqNVVdPognejijRI="
-        }
-      ]
-    },
-    {
-      "Route": "crud-maui-blazor.bundle.scp.css",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\wfqylh8s23-15iok1uftg.br",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "br",
-          "Quality": "0.000738552437"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1353"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"v88KU46vRvtgaMeEgx5N2vnRxKNncJN8emtk67KsgJc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 22:36:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE="
-        }
-      ]
-    },
-    {
-      "Route": "crud-maui-blazor.bundle.scp.css",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\wfqylh8s23-15iok1uftg.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000614628150"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1626"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hEx3tpKgsNgw5i14Zou5QB/89p1aqNVVdPognejijRI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 22:36:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE="
-        }
-      ]
-    },
-    {
-      "Route": "crud-maui-blazor.bundle.scp.css",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\crud-maui-blazor.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5481"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 22:36:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE="
-        }
-      ]
-    },
-    {
-      "Route": "crud-maui-blazor.bundle.scp.css.br",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\wfqylh8s23-15iok1uftg.br",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1353"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"v88KU46vRvtgaMeEgx5N2vnRxKNncJN8emtk67KsgJc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 22:36:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-v88KU46vRvtgaMeEgx5N2vnRxKNncJN8emtk67KsgJc="
-        }
-      ]
-    },
-    {
-      "Route": "crud-maui-blazor.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\wfqylh8s23-15iok1uftg.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1626"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hEx3tpKgsNgw5i14Zou5QB/89p1aqNVVdPognejijRI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 22:36:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-hEx3tpKgsNgw5i14Zou5QB/89p1aqNVVdPognejijRI="
-        }
-      ]
-    },
-    {
-      "Route": "crud-maui-blazor.styles.css",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\zyh4oedkmi-15iok1uftg.br",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "br",
-          "Quality": "0.000738552437"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1353"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"v88KU46vRvtgaMeEgx5N2vnRxKNncJN8emtk67KsgJc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 22:36:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE="
-        }
-      ]
-    },
-    {
-      "Route": "crud-maui-blazor.styles.css",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\zyh4oedkmi-15iok1uftg.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000614628150"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1626"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hEx3tpKgsNgw5i14Zou5QB/89p1aqNVVdPognejijRI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 22:36:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE="
-        }
-      ]
-    },
-    {
-      "Route": "crud-maui-blazor.styles.css",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\crud-maui-blazor.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5481"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 22:36:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE="
-        }
-      ]
-    },
-    {
-      "Route": "crud-maui-blazor.styles.css.br",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\zyh4oedkmi-15iok1uftg.br",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1353"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"v88KU46vRvtgaMeEgx5N2vnRxKNncJN8emtk67KsgJc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 22:36:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-v88KU46vRvtgaMeEgx5N2vnRxKNncJN8emtk67KsgJc="
-        }
-      ]
-    },
-    {
-      "Route": "crud-maui-blazor.styles.css.gz",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\zyh4oedkmi-15iok1uftg.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1626"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hEx3tpKgsNgw5i14Zou5QB/89p1aqNVVdPognejijRI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 22:36:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-hEx3tpKgsNgw5i14Zou5QB/89p1aqNVVdPognejijRI="
-        }
-      ]
-    },
-    {
       "Route": "css/app.css",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\zje3yoyo4s-e5tk7yf482.br",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\zje3yoyo4s-e5tk7yf482.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1449,7 +295,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1481,7 +327,7 @@
     },
     {
       "Route": "css/app.css",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\zje3yoyo4s-e5tk7yf482.gz",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\zje3yoyo4s-e5tk7yf482.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1504,7 +350,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1536,7 +382,7 @@
     },
     {
       "Route": "css/app.css",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\css\\app.css",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\css\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1557,7 +403,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1573,7 +419,7 @@
     },
     {
       "Route": "css/app.css.br",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\zje3yoyo4s-e5tk7yf482.br",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\zje3yoyo4s-e5tk7yf482.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1594,7 +440,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1618,7 +464,7 @@
     },
     {
       "Route": "css/app.css.gz",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\zje3yoyo4s-e5tk7yf482.gz",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\zje3yoyo4s-e5tk7yf482.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1639,7 +485,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1663,7 +509,7 @@
     },
     {
       "Route": "css/app.e5tk7yf482.css",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\zje3yoyo4s-e5tk7yf482.br",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\zje3yoyo4s-e5tk7yf482.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1686,7 +532,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1726,7 +572,7 @@
     },
     {
       "Route": "css/app.e5tk7yf482.css",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\zje3yoyo4s-e5tk7yf482.gz",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\zje3yoyo4s-e5tk7yf482.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1749,7 +595,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1789,7 +635,7 @@
     },
     {
       "Route": "css/app.e5tk7yf482.css",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\css\\app.css",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\css\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1810,7 +656,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1834,7 +680,7 @@
     },
     {
       "Route": "css/app.e5tk7yf482.css.br",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\zje3yoyo4s-e5tk7yf482.br",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\zje3yoyo4s-e5tk7yf482.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1855,7 +701,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1887,7 +733,7 @@
     },
     {
       "Route": "css/app.e5tk7yf482.css.gz",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\zje3yoyo4s-e5tk7yf482.gz",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\zje3yoyo4s-e5tk7yf482.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1908,7 +754,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1940,7 +786,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\c6cevx3ir2-6gzpyzhau4.gz",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\c6cevx3ir2-6gzpyzhau4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1963,7 +809,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2003,7 +849,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\c6cevx3ir2-6gzpyzhau4.br",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\c6cevx3ir2-6gzpyzhau4.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2026,7 +872,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2066,7 +912,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2087,7 +933,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2111,7 +957,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css.br",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\c6cevx3ir2-6gzpyzhau4.br",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\c6cevx3ir2-6gzpyzhau4.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2132,7 +978,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2164,7 +1010,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css.gz",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\c6cevx3ir2-6gzpyzhau4.gz",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\c6cevx3ir2-6gzpyzhau4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2185,7 +1031,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2217,7 +1063,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\c6cevx3ir2-6gzpyzhau4.gz",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\c6cevx3ir2-6gzpyzhau4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2240,7 +1086,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2272,7 +1118,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\c6cevx3ir2-6gzpyzhau4.br",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\c6cevx3ir2-6gzpyzhau4.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2295,7 +1141,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2327,7 +1173,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2348,7 +1194,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2364,7 +1210,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\r3dm4isq19-8inm30yfxf.br",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\r3dm4isq19-8inm30yfxf.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2387,7 +1233,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2427,7 +1273,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\r3dm4isq19-8inm30yfxf.gz",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\r3dm4isq19-8inm30yfxf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2450,7 +1296,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2490,7 +1336,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2511,7 +1357,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2535,7 +1381,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map.br",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\r3dm4isq19-8inm30yfxf.br",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\r3dm4isq19-8inm30yfxf.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2556,7 +1402,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2588,7 +1434,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map.gz",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\r3dm4isq19-8inm30yfxf.gz",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\r3dm4isq19-8inm30yfxf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2609,7 +1455,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2641,7 +1487,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.br",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\c6cevx3ir2-6gzpyzhau4.br",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\c6cevx3ir2-6gzpyzhau4.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2662,7 +1508,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2686,7 +1532,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.gz",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\c6cevx3ir2-6gzpyzhau4.gz",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\c6cevx3ir2-6gzpyzhau4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2707,7 +1553,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2731,7 +1577,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\r3dm4isq19-8inm30yfxf.br",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\r3dm4isq19-8inm30yfxf.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2754,7 +1600,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2786,7 +1632,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\r3dm4isq19-8inm30yfxf.gz",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\r3dm4isq19-8inm30yfxf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2809,7 +1655,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2841,7 +1687,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2862,7 +1708,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2878,7 +1724,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map.br",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\r3dm4isq19-8inm30yfxf.br",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\r3dm4isq19-8inm30yfxf.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2899,7 +1745,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2923,7 +1769,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map.gz",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\r3dm4isq19-8inm30yfxf.gz",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\r3dm4isq19-8inm30yfxf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2944,7 +1790,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2968,7 +1814,7 @@
     },
     {
       "Route": "index.67gxxux059.html",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\tvwc51w9o5-67gxxux059.br",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\tvwc51w9o5-67gxxux059.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2991,7 +1837,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3031,7 +1877,7 @@
     },
     {
       "Route": "index.67gxxux059.html",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\tvwc51w9o5-67gxxux059.gz",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\tvwc51w9o5-67gxxux059.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3054,7 +1900,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3094,7 +1940,7 @@
     },
     {
       "Route": "index.67gxxux059.html",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3115,7 +1961,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3139,7 +1985,7 @@
     },
     {
       "Route": "index.67gxxux059.html.br",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\tvwc51w9o5-67gxxux059.br",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\tvwc51w9o5-67gxxux059.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3160,7 +2006,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3192,7 +2038,7 @@
     },
     {
       "Route": "index.67gxxux059.html.gz",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\tvwc51w9o5-67gxxux059.gz",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\tvwc51w9o5-67gxxux059.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3213,7 +2059,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3245,7 +2091,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\tvwc51w9o5-67gxxux059.br",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\tvwc51w9o5-67gxxux059.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3268,7 +2114,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3300,7 +2146,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\tvwc51w9o5-67gxxux059.gz",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\tvwc51w9o5-67gxxux059.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3323,7 +2169,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3355,7 +2201,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3376,7 +2222,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3392,7 +2238,7 @@
     },
     {
       "Route": "index.html.br",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\tvwc51w9o5-67gxxux059.br",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\tvwc51w9o5-67gxxux059.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3413,7 +2259,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3437,7 +2283,7 @@
     },
     {
       "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\tvwc51w9o5-67gxxux059.gz",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-android\\compressed\\tvwc51w9o5-67gxxux059.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3458,7 +2304,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 20:22:13 GMT"
+          "Value": "Mon, 12 May 2025 00:46:09 GMT"
         },
         {
           "Name": "Cache-Control",

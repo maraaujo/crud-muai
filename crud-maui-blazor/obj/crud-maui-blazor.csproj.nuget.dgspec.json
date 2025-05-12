@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\crud-maui-blazor.csproj": {}
+    "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\crud-maui-blazor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\crud-maui-blazor.csproj": {
+    "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\crud-maui-blazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\crud-maui-blazor.csproj",
+        "projectUniqueName": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\crud-maui-blazor.csproj",
         "projectName": "crud-maui-blazor",
-        "projectPath": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\crud-maui-blazor.csproj",
+        "projectPath": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\crud-maui-blazor.csproj",
         "packagesPath": "C:\\Users\\mclem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\MFB-bank-back-end\\crud-maui-blazor\\obj\\",
+        "outputPath": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
