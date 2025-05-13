@@ -81,4 +81,8 @@
         <PackageReference Include="SQLitePCLRaw.provider.e_sqlite3" Version="2.1.11" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="NovaPasta\" />
+    </ItemGroup>
+
 </Project>

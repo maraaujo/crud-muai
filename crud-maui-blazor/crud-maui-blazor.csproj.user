@@ -14,24 +14,6 @@
     <None Update="App.xaml">
       <SubType>Designer</SubType>
     </None>
-    <None Update="crud-maui-blazor\App.xaml">
-      <SubType>Designer</SubType>
-    </None>
-    <None Update="crud-maui-blazor\MainPage.xaml">
-      <SubType>Designer</SubType>
-    </None>
-    <None Update="crud-maui-blazor\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml">
-      <SubType>Designer</SubType>
-    </None>
-    <None Update="crud-maui-blazor\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\m\Package.appxmanifest">
-      <SubType>Designer</SubType>
-    </None>
-    <None Update="crud-maui-blazor\Platforms\Windows\App.xaml">
-      <SubType>Designer</SubType>
-    </None>
-    <None Update="crud-maui-blazor\Platforms\Windows\Package.appxmanifest">
-      <SubType>Designer</SubType>
-    </None>
     <None Update="MainPage.xaml">
       <SubType>Designer</SubType>
     </None>

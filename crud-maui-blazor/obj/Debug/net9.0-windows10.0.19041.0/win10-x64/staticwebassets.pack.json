@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\crud-maui-blazor.styles.css",
+      "PackagePath": "staticwebassets\\crud-maui-blazor.styles.css"
+    },
+    {
       "Id": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },

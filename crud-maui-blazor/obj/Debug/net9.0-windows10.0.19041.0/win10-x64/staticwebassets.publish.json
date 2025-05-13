@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6FVoAzXbR20ByRU+s1/9aK8LfaPU98m29H+wIaqkYXg=",
+  "Hash": "eeym2SUu5PkGL1Qh1rPAlPUZ05lWbzQ4ya+ZSY70l8k=",
   "Source": "crud-maui-blazor",
   "BasePath": "/",
   "Mode": "Root",
@@ -101,6 +101,27 @@
       "OriginalItemSpec": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\index.html"
     },
     {
+      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\publish\\wfqylh8s23-15iok1uftg.br",
+      "SourceId": "crud-maui-blazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\publish\\",
+      "BasePath": "/",
+      "RelativePath": "crud-maui-blazor#[.{fingerprint=15iok1uftg}]!.bundle.scp.css.br",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\crud-maui-blazor.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "vkpl75k25p",
+      "Integrity": "v88KU46vRvtgaMeEgx5N2vnRxKNncJN8emtk67KsgJc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\crud-maui-blazor.bundle.scp.css"
+    },
+    {
       "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\publish\\zje3yoyo4s-e5tk7yf482.br",
       "SourceId": "crud-maui-blazor",
       "SourceType": "Discovered",
@@ -120,6 +141,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\css\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\publish\\zyh4oedkmi-15iok1uftg.br",
+      "SourceId": "crud-maui-blazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\publish\\",
+      "BasePath": "/",
+      "RelativePath": "crud-maui-blazor#[.{fingerprint=15iok1uftg}]?.styles.css.br",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\crud-maui-blazor.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "vkpl75k25p",
+      "Integrity": "v88KU46vRvtgaMeEgx5N2vnRxKNncJN8emtk67KsgJc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\crud-maui-blazor.styles.css"
     },
     {
       "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\r3dm4isq19-8inm30yfxf.gz",
@@ -164,6 +206,27 @@
       "OriginalItemSpec": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\index.html"
     },
     {
+      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\wfqylh8s23-15iok1uftg.gz",
+      "SourceId": "crud-maui-blazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "crud-maui-blazor#[.{fingerprint=15iok1uftg}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\crud-maui-blazor.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "4kfv8xoxlc",
+      "Integrity": "hEx3tpKgsNgw5i14Zou5QB/89p1aqNVVdPognejijRI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\crud-maui-blazor.bundle.scp.css"
+    },
+    {
       "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\zje3yoyo4s-e5tk7yf482.gz",
       "SourceId": "crud-maui-blazor",
       "SourceType": "Discovered",
@@ -183,6 +246,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\css\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\zyh4oedkmi-15iok1uftg.gz",
+      "SourceId": "crud-maui-blazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "crud-maui-blazor#[.{fingerprint=15iok1uftg}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\crud-maui-blazor.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "4kfv8xoxlc",
+      "Integrity": "hEx3tpKgsNgw5i14Zou5QB/89p1aqNVVdPognejijRI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\crud-maui-blazor.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\crud-maui-blazor.styles.css",
+      "SourceId": "crud-maui-blazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\",
+      "BasePath": "/",
+      "RelativePath": "crud-maui-blazor#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "15iok1uftg",
+      "Integrity": "K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\crud-maui-blazor.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\crud-maui-blazor.bundle.scp.css",
+      "SourceId": "crud-maui-blazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\",
+      "BasePath": "/",
+      "RelativePath": "crud-maui-blazor#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "15iok1uftg",
+      "Integrity": "K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\crud-maui-blazor.bundle.scp.css"
     },
     {
       "Identity": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\wwwroot\\css\\app.css",
@@ -270,6 +396,1034 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "crud-maui-blazor.15iok1uftg.bundle.scp.css",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\publish\\wfqylh8s23-15iok1uftg.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000738552437"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1353"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v88KU46vRvtgaMeEgx5N2vnRxKNncJN8emtk67KsgJc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 14:03:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "15iok1uftg"
+        },
+        {
+          "Name": "label",
+          "Value": "crud-maui-blazor.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE="
+        }
+      ]
+    },
+    {
+      "Route": "crud-maui-blazor.15iok1uftg.bundle.scp.css",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\wfqylh8s23-15iok1uftg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000614628150"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1626"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hEx3tpKgsNgw5i14Zou5QB/89p1aqNVVdPognejijRI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 14:03:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "15iok1uftg"
+        },
+        {
+          "Name": "label",
+          "Value": "crud-maui-blazor.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE="
+        }
+      ]
+    },
+    {
+      "Route": "crud-maui-blazor.15iok1uftg.bundle.scp.css",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\crud-maui-blazor.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 14:03:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "15iok1uftg"
+        },
+        {
+          "Name": "label",
+          "Value": "crud-maui-blazor.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE="
+        }
+      ]
+    },
+    {
+      "Route": "crud-maui-blazor.15iok1uftg.bundle.scp.css.br",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\publish\\wfqylh8s23-15iok1uftg.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v88KU46vRvtgaMeEgx5N2vnRxKNncJN8emtk67KsgJc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 14:03:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "15iok1uftg"
+        },
+        {
+          "Name": "label",
+          "Value": "crud-maui-blazor.bundle.scp.css.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v88KU46vRvtgaMeEgx5N2vnRxKNncJN8emtk67KsgJc="
+        }
+      ]
+    },
+    {
+      "Route": "crud-maui-blazor.15iok1uftg.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\wfqylh8s23-15iok1uftg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hEx3tpKgsNgw5i14Zou5QB/89p1aqNVVdPognejijRI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 14:03:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "15iok1uftg"
+        },
+        {
+          "Name": "label",
+          "Value": "crud-maui-blazor.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hEx3tpKgsNgw5i14Zou5QB/89p1aqNVVdPognejijRI="
+        }
+      ]
+    },
+    {
+      "Route": "crud-maui-blazor.15iok1uftg.styles.css",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\publish\\zyh4oedkmi-15iok1uftg.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000738552437"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1353"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v88KU46vRvtgaMeEgx5N2vnRxKNncJN8emtk67KsgJc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 14:03:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "15iok1uftg"
+        },
+        {
+          "Name": "label",
+          "Value": "crud-maui-blazor.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE="
+        }
+      ]
+    },
+    {
+      "Route": "crud-maui-blazor.15iok1uftg.styles.css",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\zyh4oedkmi-15iok1uftg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000614628150"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1626"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hEx3tpKgsNgw5i14Zou5QB/89p1aqNVVdPognejijRI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 14:03:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "15iok1uftg"
+        },
+        {
+          "Name": "label",
+          "Value": "crud-maui-blazor.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE="
+        }
+      ]
+    },
+    {
+      "Route": "crud-maui-blazor.15iok1uftg.styles.css",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\crud-maui-blazor.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 14:03:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "15iok1uftg"
+        },
+        {
+          "Name": "label",
+          "Value": "crud-maui-blazor.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE="
+        }
+      ]
+    },
+    {
+      "Route": "crud-maui-blazor.15iok1uftg.styles.css.br",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\publish\\zyh4oedkmi-15iok1uftg.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v88KU46vRvtgaMeEgx5N2vnRxKNncJN8emtk67KsgJc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 14:03:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "15iok1uftg"
+        },
+        {
+          "Name": "label",
+          "Value": "crud-maui-blazor.styles.css.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v88KU46vRvtgaMeEgx5N2vnRxKNncJN8emtk67KsgJc="
+        }
+      ]
+    },
+    {
+      "Route": "crud-maui-blazor.15iok1uftg.styles.css.gz",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\zyh4oedkmi-15iok1uftg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hEx3tpKgsNgw5i14Zou5QB/89p1aqNVVdPognejijRI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 14:03:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "15iok1uftg"
+        },
+        {
+          "Name": "label",
+          "Value": "crud-maui-blazor.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hEx3tpKgsNgw5i14Zou5QB/89p1aqNVVdPognejijRI="
+        }
+      ]
+    },
+    {
+      "Route": "crud-maui-blazor.bundle.scp.css",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\publish\\wfqylh8s23-15iok1uftg.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000738552437"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1353"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v88KU46vRvtgaMeEgx5N2vnRxKNncJN8emtk67KsgJc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 14:03:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE="
+        }
+      ]
+    },
+    {
+      "Route": "crud-maui-blazor.bundle.scp.css",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\wfqylh8s23-15iok1uftg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000614628150"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1626"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hEx3tpKgsNgw5i14Zou5QB/89p1aqNVVdPognejijRI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 14:03:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE="
+        }
+      ]
+    },
+    {
+      "Route": "crud-maui-blazor.bundle.scp.css",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\crud-maui-blazor.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 14:03:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE="
+        }
+      ]
+    },
+    {
+      "Route": "crud-maui-blazor.bundle.scp.css.br",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\publish\\wfqylh8s23-15iok1uftg.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v88KU46vRvtgaMeEgx5N2vnRxKNncJN8emtk67KsgJc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 14:03:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-v88KU46vRvtgaMeEgx5N2vnRxKNncJN8emtk67KsgJc="
+        }
+      ]
+    },
+    {
+      "Route": "crud-maui-blazor.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\wfqylh8s23-15iok1uftg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hEx3tpKgsNgw5i14Zou5QB/89p1aqNVVdPognejijRI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 14:03:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hEx3tpKgsNgw5i14Zou5QB/89p1aqNVVdPognejijRI="
+        }
+      ]
+    },
+    {
+      "Route": "crud-maui-blazor.styles.css",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\publish\\zyh4oedkmi-15iok1uftg.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000738552437"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1353"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v88KU46vRvtgaMeEgx5N2vnRxKNncJN8emtk67KsgJc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 14:03:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE="
+        }
+      ]
+    },
+    {
+      "Route": "crud-maui-blazor.styles.css",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\zyh4oedkmi-15iok1uftg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000614628150"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1626"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hEx3tpKgsNgw5i14Zou5QB/89p1aqNVVdPognejijRI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 14:03:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE="
+        }
+      ]
+    },
+    {
+      "Route": "crud-maui-blazor.styles.css",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\crud-maui-blazor.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 14:03:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE="
+        }
+      ]
+    },
+    {
+      "Route": "crud-maui-blazor.styles.css.br",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\publish\\zyh4oedkmi-15iok1uftg.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v88KU46vRvtgaMeEgx5N2vnRxKNncJN8emtk67KsgJc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 14:03:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-v88KU46vRvtgaMeEgx5N2vnRxKNncJN8emtk67KsgJc="
+        }
+      ]
+    },
+    {
+      "Route": "crud-maui-blazor.styles.css.gz",
+      "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\zyh4oedkmi-15iok1uftg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hEx3tpKgsNgw5i14Zou5QB/89p1aqNVVdPognejijRI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 14:03:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hEx3tpKgsNgw5i14Zou5QB/89p1aqNVVdPognejijRI="
+        }
+      ]
+    },
     {
       "Route": "css/app.css",
       "AssetFile": "C:\\Users\\mclem\\OneDrive\\Desktop\\Projeto\\crud-muai\\crud-maui-blazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\publish\\zje3yoyo4s-e5tk7yf482.br",
