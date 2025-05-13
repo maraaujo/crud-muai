@@ -1,0 +1,56 @@
+﻿@page "/deletePerfume/{id:int}"
+@using crud_maui_blazor.Models
+@using crud_maui_blazor.Database
+@inject NavigationManager navigation;
+<h3>Deletar Novo perfume</h3>
+<div class="col-md-12">
+    <EditForm FormName="addStudent">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+
+        <div class="col-md-12">
+            <EditForm Model="perfume" OnValidSubmit="UpdatePerfume" FormName="Atualizar Perfume">
+            <div class="row">
+                <div class="col-md-6">
+
+                        <div class="form-group">
+                            <label class="control-label">Nome </label>
+                            <InputText form="Name" class="form-control" @bind-Value="@perfume.Name"></InputText>
+                            <ValidationMessage For="() => perfume.Nmae" />
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label class="control-label">Volume </label>
+                            <InputText form="Volume" class="form-control" @bind-Value="@perfume.Volume"></InputText>
+                            <ValidationMessage For="() => perfume.Nmae" />
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group mt-4">
+                    <button type="submit" class="btn btn-primary float-end">Saval Perfume</button>
+                    <a href="/list" class="btn btn-danger float-start">Voltar para lista</a>
+                   </div>
+            </div>
+        </div>
+    </EditForm>
+</div>
+@code {
+    [SupplyParameterFromForm]
+    public Perfume perfume { get; set; } = new Perfume();
+
+    protected async Task UpdatePerfume()
+    {
+        var ret = await App.Database.DeleteAsync<Perfume>(perfume);
+        if (ret > 0)
+        {
+            await App.Current.MainPage.DisplayAlert("Sucesso", "Perfume salvo com sucesso", "OK");
+            navigation.NavigateTo("/list");
+        }
+        else
+        {
+            await App.Current.MainPage.DisplayAlert("Erro", "Erro ao salvar perfume", "OK");
+            navigation.NavigateTo("/list");
+        }
+    }
+}

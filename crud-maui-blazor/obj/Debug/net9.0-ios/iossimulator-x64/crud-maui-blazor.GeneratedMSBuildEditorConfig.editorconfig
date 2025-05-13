@@ -50,10 +50,38 @@ build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XFBhZ2VzXENvdW50ZXIucmF6
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/mclem/OneDrive/Desktop/Projeto/crud-muai/crud-maui-blazor/Component/Pages/DeletePerfume.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XFBhZ2VzXERlbGV0ZVBlcmZ1bWUucmF6b3I=
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/mclem/OneDrive/Desktop/Projeto/crud-muai/crud-maui-blazor/Component/Pages/Home.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XFBhZ2VzXEhvbWUucmF6b3I=
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mclem/OneDrive/Desktop/Projeto/crud-muai/crud-maui-blazor/Component/Pages/ListPerfume.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XFBhZ2VzXExpc3RQZXJmdW1lLnJhem9y
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mclem/OneDrive/Desktop/Projeto/crud-muai/crud-maui-blazor/Component/Pages/NewPerfume.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XFBhZ2VzXE5ld1BlcmZ1bWUucmF6b3I=
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mclem/OneDrive/Desktop/Projeto/crud-muai/crud-maui-blazor/Component/Pages/UpdatePerfume.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XFBhZ2VzXFVwZGF0ZVBlcmZ1bWUucmF6b3I=
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 

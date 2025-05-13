@@ -1,0 +1,50 @@
+﻿@page "/list"
+@using crud_maui_blazor.Models
+@using crud_maui_blazor.Database
+<h1>Histórico de Perfumes</h1>
+
+@if (perfumes == null)
+{
+        <p><em>Carregando...</em></p>
+}
+else
+{
+      <div class="row">
+              <p><a class="btn btn-sucess float-end"></a>Adicionar novo Perfume</p>
+          <div class="col-md-12">
+                    <table class="table">
+                <thead>
+                    <tr>
+                        <th>Nome</th>
+                        <th>Volume</th>
+                            <th>Editar</th>
+                                <th>Deletar</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var perfume in perfumes)
+                    {
+                                <tr>
+                                <td>@perfume.Name</td>
+                                <td>@perfume.Volume</td>
+                                <td><a href="/deletePerfume/@perfume.Id" class="btn btn-primary"></a>Editar</td>
+                                <td><a href="/updatePerfume/@perfume.Id" class="btn btn-danger"></a>Deletar</td>
+                                </tr>
+                    }
+                </tbody>
+            </table>
+          </div>
+      </div>
+}
+
+@code {
+    private List<Perfume>? perfumes;
+
+    protected override async Task OnInitializedAsync()
+    {
+        // Simulate asynchronous loading to demonstrate a loading indicator
+        await Task.Delay(500);
+
+        perfurmes = await App.Database.GetTableRows<Perfume>();
+    }
+}
