@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>15iok1uftg</Fingerprint>
-      <Integrity>K7bcM7DjqiGzQGLAxHuesv06TTwxRbe83vRBi6/e4pE=</Integrity>
+      <Fingerprint>0woqotdv08</Fingerprint>
+      <Integrity>gDxMc7bvwBV/ds8LA2JLgabU/dk4fzl7k5wxeAJT6Ew=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\crud-maui-blazor.styles.css'))</OriginalItemSpec>
